@@ -46,7 +46,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "dotenv": "^8.2.0",
+    "dotenv": "^16.4.7",
     "truffle-hdwallet-provider": "^1.0.17"
   }
 }
